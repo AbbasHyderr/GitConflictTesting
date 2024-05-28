@@ -1,0 +1,7 @@
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\bin\Debug\RepoTest.exe.config
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\bin\Debug\RepoTest.exe
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\bin\Debug\RepoTest.pdb
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\obj\Debug\RepoTest.csproj.AssemblyReference.cache
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\obj\Debug\RepoTest.csproj.CoreCompileInputs.cache
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\obj\Debug\RepoTest.exe
+C:\Users\Shispare\source\repos\RepoTest\RepoTest\obj\Debug\RepoTest.pdb
